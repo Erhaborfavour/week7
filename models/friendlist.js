@@ -1,10 +1,10 @@
 const friends = [
     {
         id: 1,
-        name: "Racheal",
-        age: 27,
+        name: "Prosper",
+        age: 57,
         phone: "08139528865",
-        sex: "female"
+        sex: "Male"
 
     },
     {
